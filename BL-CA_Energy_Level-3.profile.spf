@@ -1,0 +1,16 @@
+Subsystem_1	Subsystem_3	BL_Nor	CA_Sha	CA_Dpt
+S Metabolism	Sulfur assimilation	5.86	7.09	7.09
+S Metabolism	Sulfur oxidation	0.79	0.9	1.02
+N Metabolism	NOx ammonification	7.04	8.72	9.78
+N Metabolism	Nitrogen fixation	9.25	7.42	6.78
+N Metabolism	Ammonia assimilation	5.62	7.61	7.64
+P Metabolism	Phosphate_metabolism	11.8	11.72	11.8
+P Metabolism	Phosphorus uptake	5.22	3.68	3.21
+Photosynthesis	Phycobilisome	10.16	12.49	11.87
+Photosynthesis	Photosystem_II	9.82	9.33	8.58
+Photosynthesis	Photosystem_I	7.72	8.4	8.77
+Photosynthesis	Proteorhodopsin	1.41	1.77	1.99
+Photosynthesis	Myxoxanthophyll	2.67	1.19	1.6
+C Metabolism	CO2_uptake	15.76	13.51	12.96
+C Metabolism	Methane metabolism	4.62	4.31	4.92
+C Metabolism	Carbon fixation	2.26	1.86	1.97
